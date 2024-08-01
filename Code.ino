@@ -17,8 +17,8 @@
 #include <DHT.h>  // Including library for dht
 
 char auth[] = "tFlsjHk5H3_3Eh7h5unsRrNPD4rnJFjx";       //Authentication code sent by Blynk
-char ssid[] = "OPPO F19 Pro+";                        //WiFi SSID
-char pass[] = "Keerthana2006";                //WiFi Password
+char ssid[] = "CIT-campus";                        //WiFi SSID
+char pass[] = "citchennai";                //WiFi Password
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
